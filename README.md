@@ -5,5 +5,6 @@ hosted on heroku platform,
 https://protected-badlands-49335.herokuapp.com/
 
 
-To add new category of todo, add any titlename after domain
-eg: https://protected-badlands-49335.herokuapp.com/Titlename
+To add new category of todo, add any title name after domain
+eg: home as a new category 
+    https://protected-badlands-49335.herokuapp.com/home
